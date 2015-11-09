@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=IMU_REV_E Member=Designator2
+Removed Member From Class: ClassName=IMU_REV_E Member=Designator3
+Added Component: Designator=*(ProfiCNC_medium)
+Change Class Name : Old Net Name=IMU_REV_E New Net Name=IMU_REV_1A
+Added Member To Class: ClassName=IMU_REV_1A Member=Component * ProfiCNC_LOGO

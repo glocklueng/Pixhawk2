@@ -1,0 +1,148 @@
+*************************************************************
+FileName = IMU_REV_1A.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\matrix\matrix
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\profile
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\stephdr
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\topoverlay\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\topoverlay\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\toppaste\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\toppaste\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\topsolder\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\topsolder\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\top\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\top\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mid1\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mid1\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mid2\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mid2\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\bottom\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\bottom\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\bottomsolder\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\bottomsolder\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\bottompaste\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\bottompaste\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\bottomoverlay\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\bottomoverlay\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\drill\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\drill\tools
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\keepout\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\keepout\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical1\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical1\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical2\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical2\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical4\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical4\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical6\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical6\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical7\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical7\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical13\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical13\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical15\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical15\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical16\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical16\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical20\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical20\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical27\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical27\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical34\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\mechanical34\attrlist
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\steps\pcb\eda\data
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect44x40_225\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect44x40_135\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect44x40_45\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect15.8701x23.811_225\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect15.8701x23.811_135\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect15.8701x23.811_45\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect19.689x37.5_225\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect20x37.5_225\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect19.689x37.5_135\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect20x37.5_135\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect19.689x37.5_45\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect20x37.5_45\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect18x30_225\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect18x30_135\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect18x30_45\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect52x48_225\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect52x48_135\features
+
+Generated File : W:\Git\Pixhawk2\IMU_REV_1A\Project Outputs for IMU_REV_1A\odb\symbols\rect52x48_45\features
+

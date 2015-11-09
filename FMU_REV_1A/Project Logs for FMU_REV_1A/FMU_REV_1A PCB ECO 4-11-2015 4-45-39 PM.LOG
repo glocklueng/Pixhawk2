@@ -1,0 +1,10 @@
+Change Class Name : Old Net Name=80PIN_FMU4_REV_0 New Net Name=80PIN_FMU_REV_1A
+Change Class Name : Old Net Name=FMU_FMU4_REV_0 New Net Name=FMU_FMU_REV_1A
+Change Class Name : Old Net Name=FMU_Power_FMU4_REV_0 New Net Name=FMU_Power_FMU_REV_1A
+Change Class Name : Old Net Name=IO_FMU4_REV_0 New Net Name=IO_FMU_REV_1A
+Change Class Name : Old Net Name=IO_PWR_FMU4_REV_0 New Net Name=IO_PWR_FMU_REV_1A
+Change Class Name : Old Net Name=LEDs_FMU4_REV_0 New Net Name=LEDs_FMU_REV_1A
+Change Class Name : Old Net Name=PWM_PPM_FMU0_REV_0 New Net Name=PWM_PPM_FMU_REV_1A
+Change Class Name : Old Net Name=SD_USB_FMU4_REV_0 New Net Name=SD_USB_FMU_REV_1A
+Change Class Name : Old Net Name=SENSORS_FMU4_REV_0 New Net Name=SENSORS_FMU_REV_1A
+Change Class Name : Old Net Name=SERIAL_FMU4_REV_0 New Net Name=SERIAL_FMU_REV_1A

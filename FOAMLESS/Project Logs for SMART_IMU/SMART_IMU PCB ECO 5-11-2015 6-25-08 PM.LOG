@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=+3V3 Pin=U3_A-1
+Added Component: Designator=C1(0805-CAP)
+Added Component: Designator=C2(0402-CAP)
+Added Component: Designator=C3(0402-CAP)
+Added Component: Designator=C4(0805-CAP)
+Added Component: Designator=C5(0402-CAP)
+Added Component: Designator=C6(0805-CAP)
+Added Component: Designator=C7(0402-CAP)
+Added Component: Designator=C13(0805-CAP)
+Added Component: Designator=C14(0402-CAP)
+Added Component: Designator=Designator2(3DR_SMALL)
+Added Component: Designator=Designator3(3DR_SMALL)
+Added Component: Designator=U1(L3GD20)
+Added Component: Designator=U2(LSM303D)
+Added Pin To Net: NetName=+3V3 Pin=C1-P$1
+Added Pin To Net: NetName=GND Pin=C1-P$2
+Added Pin To Net: NetName=+3V3 Pin=C2-P$1
+Added Pin To Net: NetName=GND Pin=C2-P$2
+Added Pin To Net: NetName=GND Pin=C3-P$2
+Added Pin To Net: NetName=+3V3 Pin=C4-P$1
+Added Pin To Net: NetName=GND Pin=C4-P$2
+Added Pin To Net: NetName=+3V3 Pin=C5-P$1
+Added Pin To Net: NetName=GND Pin=C5-P$2
+Added Pin To Net: NetName=GND Pin=C6-P$2
+Added Pin To Net: NetName=+3V3 Pin=C13-P$1
+Added Pin To Net: NetName=GND Pin=C13-P$2
+Added Pin To Net: NetName=+3V3 Pin=C14-P$1
+Added Pin To Net: NetName=GND Pin=C14-P$2
+Added Pin To Net: NetName=GND Pin=Nut 1-0
+Added Pin To Net: NetName=GND Pin=Nut 2-0
+Added Pin To Net: NetName=GND Pin=Nut 3-0
+Added Pin To Net: NetName=GND Pin=Nut 4-0
+Added Pin To Net: NetName=B\A\R\O\_\C\S\ Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=M\P\U\_\C\S\ Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Pin To Net: NetName=IMU_TEMPERATURE_CONTROL Pin=P1-9
+Added Pin To Net: NetName=IMU_MOSI Pin=P1-10
+Added Pin To Net: NetName=+3V3 Pin=P1-11
+Added Pin To Net: NetName=GND Pin=P1-12
+Added Pin To Net: NetName=+3V3 Pin=P1-13
+Added Pin To Net: NetName=IMU_MISO Pin=P1-14
+Added Pin To Net: NetName=+3V3 Pin=P1-15
+Added Pin To Net: NetName=GND Pin=P1-16
+Added Pin To Net: NetName=+3V3 Pin=P1-17
+Added Pin To Net: NetName=IMU_SCK Pin=P1-18
+Added Pin To Net: NetName=+3V3 Pin=P1-19
+Added Pin To Net: NetName=GND Pin=P1-20
+Added Pin To Net: NetName=GND Pin=P1-21
+Added Pin To Net: NetName=GND Pin=P1-22
+Added Pin To Net: NetName=GND Pin=P1-23
+Added Pin To Net: NetName=GND Pin=P1-24
+Added Pin To Net: NetName=+3V3 Pin=U1-1
+Added Pin To Net: NetName=IMU_SCK Pin=U1-2
+Added Pin To Net: NetName=IMU_MOSI Pin=U1-3
+Added Pin To Net: NetName=IMU_MISO Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=+3V3 Pin=U1-15
+Added Pin To Net: NetName=+3V3 Pin=U1-16
+Added Pin To Net: NetName=+3V3 Pin=U2-1
+Added Pin To Net: NetName=IMU_SCK Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=IMU_MOSI Pin=U2-6
+Added Pin To Net: NetName=IMU_MISO Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-10
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=+3V3 Pin=U2-14
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Pin To Net: NetName=A\C\C\E\L\_\M\A\G\_\C\S\ Pin=P1-2
+Added Pin To Net: NetName=A\C\C\E\L\_\M\A\G\_\C\S\ Pin=U2-8
+Added Net: Name=A\C\C\E\L\_\M\A\G\_\C\S\
+Added Pin To Net: NetName=G\Y\R\O\_\C\S\ Pin=P1-6
+Added Pin To Net: NetName=G\Y\R\O\_\C\S\ Pin=U1-5
+Added Net: Name=G\Y\R\O\_\C\S\
+Added Pin To Net: NetName=NetC3_P$1 Pin=C3-P$1
+Added Pin To Net: NetName=NetC3_P$1 Pin=U1-14
+Added Net: Name=NetC3_P$1
+Added Pin To Net: NetName=NetC6_P$1 Pin=C6-P$1
+Added Pin To Net: NetName=NetC6_P$1 Pin=U2-15
+Added Net: Name=NetC6_P$1
+Added Pin To Net: NetName=NetC7_P$1 Pin=C7-P$1
+Added Pin To Net: NetName=NetC7_P$1 Pin=U2-2
+Added Net: Name=NetC7_P$1
+Added Pin To Net: NetName=NetC7_P$2 Pin=C7-P$2
+Added Pin To Net: NetName=NetC7_P$2 Pin=U2-3
+Added Net: Name=NetC7_P$2
+Change Class Name : Old Net Name=Sheet1 New Net Name=SMART_IMU
+Added Member To Class: ClassName=SMART_IMU Member=Component C1 10u
+Added Member To Class: ClassName=SMART_IMU Member=Component C2 0u1
+Added Member To Class: ClassName=SMART_IMU Member=Component C3 0u01
+Added Member To Class: ClassName=SMART_IMU Member=Component C4 10u
+Added Member To Class: ClassName=SMART_IMU Member=Component C5 0u1
+Added Member To Class: ClassName=SMART_IMU Member=Component C6 10u
+Added Member To Class: ClassName=SMART_IMU Member=Component C7 0u47
+Added Member To Class: ClassName=SMART_IMU Member=Component C13 10u
+Added Member To Class: ClassName=SMART_IMU Member=Component C14 0u1
+Added Member To Class: ClassName=SMART_IMU Member=Component Designator2 Comment
+Added Member To Class: ClassName=SMART_IMU Member=Component Designator3 Comment
+Added Member To Class: ClassName=SMART_IMU Member=Component Nut 1 PEM-SMTSO-M1.6-2-ET
+Added Member To Class: ClassName=SMART_IMU Member=Component Nut 2 PEM-SMTSO-M1.6-2-ET
+Added Member To Class: ClassName=SMART_IMU Member=Component Nut 3 PEM-SMTSO-M1.6-2-ET
+Added Member To Class: ClassName=SMART_IMU Member=Component Nut 4 PEM-SMTSO-M1.6-2-ET
+Added Member To Class: ClassName=SMART_IMU Member=Component P1 DF40C-20DP
+Added Member To Class: ClassName=SMART_IMU Member=Component U1 L3GD20
+Added Member To Class: ClassName=SMART_IMU Member=Component U2 LSM303D
